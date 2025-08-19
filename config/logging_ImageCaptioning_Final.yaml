@@ -1,0 +1,15 @@
+logs:
+- '[2025-05-29 07:59:54] Epoch 1/100 | Train Loss: 4.9067 | Train Acc: 0.1157 | Val
+  Loss: 9.1223 | Val Acc: 0.1378 | AVG BLEU: 0.1263 | Best BLEU: 0'
+- '[2025-05-29 08:12:59] Epoch 2/100 | Train Loss: 4.1389 | Train Acc: 0.1457 | Val
+  Loss: 9.2378 | Val Acc: 0.1517 | AVG BLEU: 0.1200 | Best BLEU: 0.1262652273290456'
+- '[2025-05-29 08:22:17] Epoch 3/100 | Train Loss: 3.9396 | Train Acc: 0.1511 | Val
+  Loss: 9.8059 | Val Acc: 0.1573 | AVG BLEU: 0.1126 | Best BLEU: 0.1262652273290456'
+- '[2025-05-29 08:36:26] Epoch 4/100 | Train Loss: 3.8516 | Train Acc: 0.1510 | Val
+  Loss: 10.1636 | Val Acc: 0.1594 | AVG BLEU: 0.1127 | Best BLEU: 0.1262652273290456'
+- '[2025-05-29 08:48:28] Epoch 5/100 | Train Loss: 3.8355 | Train Acc: 0.1482 | Val
+  Loss: 10.4824 | Val Acc: 0.1648 | AVG BLEU: 0.1134 | Best BLEU: 0.1262652273290456'
+- '[2025-05-29 08:57:44] Epoch 6/100 | Train Loss: 3.8370 | Train Acc: 0.1449 | Val
+  Loss: 11.0582 | Val Acc: 0.1638 | AVG BLEU: 0.1114 | Best BLEU: 0.1262652273290456'
+- '[2025-05-29 08:57:44] Early stopping triggered by BLEU.'
+- '[2025-05-29 08:57:44] Training Time: 1:11:32.724521'

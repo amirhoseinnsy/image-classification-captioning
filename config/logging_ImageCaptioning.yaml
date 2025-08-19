@@ -1,0 +1,89 @@
+logs:
+- '[2025-05-21 14:42:27] Epoch 1/100 | Train Loss: 3.3635 | Train Accuracy: 0.5544
+  | Val Loss: 2.5629 | Val Accuracy: 0.5963'
+- '[2025-05-21 14:45:36] Epoch 2/100 | Train Loss: 2.5016 | Train Accuracy: 0.5997
+  | Val Loss: 2.4154 | Val Accuracy: 0.6090'
+- '[2025-05-21 14:49:00] Epoch 3/100 | Train Loss: 2.3414 | Train Accuracy: 0.6134
+  | Val Loss: 2.2246 | Val Accuracy: 0.6325'
+- '[2025-05-21 14:52:01] Epoch 4/100 | Train Loss: 2.2063 | Train Accuracy: 0.6290
+  | Val Loss: 2.1695 | Val Accuracy: 0.6349'
+- '[2025-05-21 14:55:00] Epoch 5/100 | Train Loss: 2.1236 | Train Accuracy: 0.6353
+  | Val Loss: 2.0849 | Val Accuracy: 0.6425'
+- '[2025-05-21 14:57:59] Epoch 6/100 | Train Loss: 2.0462 | Train Accuracy: 0.6421
+  | Val Loss: 2.0406 | Val Accuracy: 0.6454'
+- '[2025-05-21 15:00:59] Epoch 7/100 | Train Loss: 2.0045 | Train Accuracy: 0.6443
+  | Val Loss: 1.9744 | Val Accuracy: 0.6525'
+- '[2025-05-21 15:03:58] Epoch 8/100 | Train Loss: 1.9660 | Train Accuracy: 0.6464
+  | Val Loss: 1.9363 | Val Accuracy: 0.6559'
+- '[2025-05-21 15:06:57] Epoch 9/100 | Train Loss: 1.9251 | Train Accuracy: 0.6499
+  | Val Loss: 1.9310 | Val Accuracy: 0.6541'
+- '[2025-05-21 15:09:57] Epoch 10/100 | Train Loss: 1.8929 | Train Accuracy: 0.6522
+  | Val Loss: 1.8807 | Val Accuracy: 0.6610'
+- '[2025-05-21 15:12:55] Epoch 11/100 | Train Loss: 1.8629 | Train Accuracy: 0.6547
+  | Val Loss: 1.8468 | Val Accuracy: 0.6652'
+- '[2025-05-21 15:15:55] Epoch 12/100 | Train Loss: 1.8210 | Train Accuracy: 0.6597
+  | Val Loss: 1.8454 | Val Accuracy: 0.6639'
+- '[2025-05-21 15:18:55] Epoch 13/100 | Train Loss: 1.7937 | Train Accuracy: 0.6619
+  | Val Loss: 1.8385 | Val Accuracy: 0.6643'
+- '[2025-05-21 15:21:55] Epoch 14/100 | Train Loss: 1.7727 | Train Accuracy: 0.6637
+  | Val Loss: 1.8216 | Val Accuracy: 0.6642'
+- '[2025-05-21 15:24:54] Epoch 15/100 | Train Loss: 1.7371 | Train Accuracy: 0.6678
+  | Val Loss: 1.7962 | Val Accuracy: 0.6685'
+- '[2025-05-21 15:27:53] Epoch 16/100 | Train Loss: 1.7201 | Train Accuracy: 0.6690
+  | Val Loss: 1.7710 | Val Accuracy: 0.6718'
+- '[2025-05-21 15:30:52] Epoch 17/100 | Train Loss: 1.7009 | Train Accuracy: 0.6707
+  | Val Loss: 1.7556 | Val Accuracy: 0.6724'
+- '[2025-05-21 15:33:51] Epoch 18/100 | Train Loss: 1.6736 | Train Accuracy: 0.6739
+  | Val Loss: 1.7494 | Val Accuracy: 0.6719'
+- '[2025-05-21 15:36:49] Epoch 19/100 | Train Loss: 1.6582 | Train Accuracy: 0.6747
+  | Val Loss: 1.7339 | Val Accuracy: 0.6746'
+- '[2025-05-21 15:39:48] Epoch 20/100 | Train Loss: 1.6421 | Train Accuracy: 0.6761
+  | Val Loss: 1.7391 | Val Accuracy: 0.6720'
+- '[2025-05-21 15:42:47] Epoch 21/100 | Train Loss: 1.6268 | Train Accuracy: 0.6775
+  | Val Loss: 1.7290 | Val Accuracy: 0.6733'
+- '[2025-05-21 15:45:46] Epoch 22/100 | Train Loss: 1.6085 | Train Accuracy: 0.6797
+  | Val Loss: 1.7052 | Val Accuracy: 0.6771'
+- '[2025-05-21 15:48:44] Epoch 23/100 | Train Loss: 1.5940 | Train Accuracy: 0.6810
+  | Val Loss: 1.7062 | Val Accuracy: 0.6762'
+- '[2025-05-21 15:51:51] Epoch 24/100 | Train Loss: 1.5815 | Train Accuracy: 0.6817
+  | Val Loss: 1.6798 | Val Accuracy: 0.6813'
+- '[2025-05-21 15:55:22] Epoch 25/100 | Train Loss: 1.5663 | Train Accuracy: 0.6838
+  | Val Loss: 1.7241 | Val Accuracy: 0.6720'
+- '[2025-05-21 15:58:54] Epoch 26/100 | Train Loss: 1.5488 | Train Accuracy: 0.6857
+  | Val Loss: 1.6768 | Val Accuracy: 0.6802'
+- '[2025-05-21 16:02:25] Epoch 27/100 | Train Loss: 1.5385 | Train Accuracy: 0.6866
+  | Val Loss: 1.6598 | Val Accuracy: 0.6838'
+- '[2025-05-21 16:05:56] Epoch 28/100 | Train Loss: 1.5256 | Train Accuracy: 0.6879
+  | Val Loss: 1.6796 | Val Accuracy: 0.6785'
+- '[2025-05-21 16:09:30] Epoch 29/100 | Train Loss: 1.5139 | Train Accuracy: 0.6890
+  | Val Loss: 1.6596 | Val Accuracy: 0.6822'
+- '[2025-05-21 16:13:02] Epoch 30/100 | Train Loss: 1.5017 | Train Accuracy: 0.6908
+  | Val Loss: 1.6491 | Val Accuracy: 0.6837'
+- '[2025-05-21 16:16:34] Epoch 31/100 | Train Loss: 1.4894 | Train Accuracy: 0.6918
+  | Val Loss: 1.6757 | Val Accuracy: 0.6782'
+- '[2025-05-21 16:20:06] Epoch 32/100 | Train Loss: 1.4838 | Train Accuracy: 0.6916
+  | Val Loss: 1.6379 | Val Accuracy: 0.6864'
+- '[2025-05-21 16:23:36] Epoch 33/100 | Train Loss: 1.4729 | Train Accuracy: 0.6931
+  | Val Loss: 1.6431 | Val Accuracy: 0.6840'
+- '[2025-05-21 16:27:04] Epoch 34/100 | Train Loss: 1.4597 | Train Accuracy: 0.6950
+  | Val Loss: 1.6103 | Val Accuracy: 0.6897'
+- '[2025-05-21 16:30:28] Epoch 35/100 | Train Loss: 1.4557 | Train Accuracy: 0.6945
+  | Val Loss: 1.6457 | Val Accuracy: 0.6824'
+- '[2025-05-21 16:33:54] Epoch 36/100 | Train Loss: 1.4414 | Train Accuracy: 0.6967
+  | Val Loss: 1.6229 | Val Accuracy: 0.6868'
+- '[2025-05-21 16:37:22] Epoch 37/100 | Train Loss: 1.4353 | Train Accuracy: 0.6967
+  | Val Loss: 1.6326 | Val Accuracy: 0.6848'
+- '[2025-05-21 16:40:25] Epoch 38/100 | Train Loss: 1.4167 | Train Accuracy: 0.6999
+  | Val Loss: 1.6056 | Val Accuracy: 0.6895'
+- '[2025-05-21 16:43:25] Epoch 39/100 | Train Loss: 1.4107 | Train Accuracy: 0.7003
+  | Val Loss: 1.6362 | Val Accuracy: 0.6837'
+- '[2025-05-21 16:46:23] Epoch 40/100 | Train Loss: 1.4018 | Train Accuracy: 0.7011
+  | Val Loss: 1.6129 | Val Accuracy: 0.6879'
+- '[2025-05-21 16:49:28] Epoch 41/100 | Train Loss: 1.3882 | Train Accuracy: 0.7031
+  | Val Loss: 1.6074 | Val Accuracy: 0.6875'
+- '[2025-05-21 16:52:55] Epoch 42/100 | Train Loss: 1.3849 | Train Accuracy: 0.7029
+  | Val Loss: 1.6273 | Val Accuracy: 0.6842'
+- '[2025-05-21 16:56:09] Epoch 43/100 | Train Loss: 1.3774 | Train Accuracy: 0.7038
+  | Val Loss: 1.6113 | Val Accuracy: 0.6872'
+- '[2025-05-21 16:56:09] Early stopping triggered.'
+- '[2025-05-21 16:56:09] Training Time: 2:16:42.755452'
